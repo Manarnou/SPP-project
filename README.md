@@ -1,5 +1,5 @@
 # SPP-project
-As part of a course project, I developed a Python code to study the behavior of Surface Plasmon Polaritons (SPP) and Surface Plasmon Resonance (SPR) using the Kretschmann-Raether configuration, as illustrated in Picture 1 (uploaded in the repository).
+As part of a course project, I developed a Python code to study the behavior of Surface Plasmon Polaritons (SPP) and Surface Plasmon Resonance (SPR) using the Kretschmann-Raether configuration, as illustrated in configuration-figure (uploaded in the repository).
 
 ## Data Extraction:
 The refractive index data was manually extracted and saved in a text file, which is then read by the code for further calculations.
