@@ -26,7 +26,7 @@ def index(cond):
 
     return n_interp, k_interp
 
-######### Calculations of reflectivity ##############@
+######### Calculations of reflectivity  vector correpsonding to different incident angles ##############
 def function(wavelength_um,n3,d_,cond):
     n_interp, k_interp =index(cond)
     ni, ki = n_interp(wavelength_um), k_interp(wavelength_um)
@@ -51,7 +51,7 @@ def function(wavelength_um,n3,d_,cond):
     return Rg_mag1, theta1_deg, theta_min
 
 
-
+########### Calculations of the reflectivity value corresponding to the SPR angle theta_min #############
 def function2(wavelenght_um,n3,d_,theta_min, cond):
     n_interp, k_interp =index(cond)
     ni, ki = n_interp(wavelength_um), k_interp(wavelength_um)
