@@ -4,7 +4,7 @@ As part of a course project with final presentation, I developed a Python code t
 ## Main output: 
 ### Figure 1:
 Observing SPR behaviour and effect of varying metal thickness and refractive index of the dieletric material on SPR angles and reflectivity at specific angle (suitable for fixed angle sensor applicatios)
-### Figure 2 and 3:
+### Figures 2 and 3:
 optimizing sensitvity of sensor by studying the behaviour of the system as refractive index of dielectric medium is varied: 
 
 1) moving/ varying incident angle: sensitivity presented by d(SPR angle)/dn 
