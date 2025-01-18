@@ -26,7 +26,7 @@ def index(cond):
 
     return n_interp, k_interp
 
-######### Calculations of reflectivity  vector correpsonding to different incident angles ##############
+######### Calculations of reflectivities correpsonding to different incident angles ##############
 def function(wavelength_um,n3,d_,cond):
     n_interp, k_interp =index(cond)
     ni, ki = n_interp(wavelength_um), k_interp(wavelength_um)
